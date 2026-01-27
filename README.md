@@ -48,7 +48,7 @@ I computed month-by-month snapshots of recurring revenue and customer behavior t
 ## Dashboard explanation
 
 * The dashboard contains monthly MRR, Customer churn rate and Revenue churn rate on the left with a 'month' filter to select all or some months.
-* On bar graphs on the right show the overall funnel analysis by source.
+* The bar graphs on the right show the overall funnel analysis by source.
 
 ## Assumptions & Limitations
 
