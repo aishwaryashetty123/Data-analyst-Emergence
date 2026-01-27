@@ -8,6 +8,7 @@ This analysis examines the Subscription and Event data to measure business healt
 * Revenue Churn Rate (Monthly)
 * Average Revenue per Customer (ARPC)
 * Funnel & Source Performance
+  
 I computed month-by-month snapshots of recurring revenue and customer behavior to assess growth and retention.
 
 ## Tools Used
