@@ -1,4 +1,4 @@
-# Emergence-Data-analyst-assessment
+# Emergence-Data-analyst
 
 ## Overview of the Analysis
 This analysis examines the Subscription and Event data to measure business health via key SaaS metrics:
